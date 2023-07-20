@@ -1,5 +1,6 @@
 {
   "userName": "Admin",
   "password": "admin123",
-  "adminItem": "Admin"
+  "adminItem": "Admin",
+  "userManagement": "User Management"
 }

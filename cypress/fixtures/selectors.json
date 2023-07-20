@@ -3,5 +3,6 @@
     "password": "input[name=\"password\"]",
     "loginButton": ".orangehrm-login-button",
     "menuItem": ".oxd-main-menu-item span",
-    "logo": ".oxd-brand"
+    "logo": ".oxd-brand",
+    "breadcrumb": ".oxd-topbar-header-breadcrumb-level"
 }

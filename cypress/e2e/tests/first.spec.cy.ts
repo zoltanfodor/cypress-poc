@@ -10,5 +10,7 @@ describe('Login ', () => {
 
   it('should work', () => {
     cy.get(selectors.menuItem).contains(data.adminItem).should('be.visible')
+    cy.get(selectors.menuItem).contains(data.adminItem).click()
+    cy.get(selectors.breadcrumb).should('have.text', data.userManagement)
   })
 })
