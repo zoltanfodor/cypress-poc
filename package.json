@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "open-cypress": "npx cypress open --e2e",
     "test-CI": "npx cypress run --headed --record --key 4ce4c7f3-bc0e-493c-8767-23ee57a23024",
     "test": "npx cypress run --headed --spec \"cypress/e2e/tests/*\""
   },
