@@ -1,0 +1,7 @@
+{
+    "userName": "input[name=\"username\"]",
+    "password": "input[name=\"password\"]",
+    "loginButton": ".orangehrm-login-button",
+    "menuItem": ".oxd-main-menu-item span",
+    "logo": ".oxd-brand"
+}
